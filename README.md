@@ -87,9 +87,13 @@
 * Please train a simple graph autoencoder on this dataset. Please show a visual side-by side comparison of the original and reconstructed events and appropriate evaluation metric of your choice. Compare to the VAE model results.
   
 ### RESULTS - 
+#### Input vs Reconstructed Tracks
 ![Input vs Reconstructed Tracks](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/gvae_tracks.png)
+#### Input vs Reconstructed ECAL
 ![Input vs Reconstructed Ecal](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/gvae_ecal.png)
+#### Input vs Reconstructed HCAL
 ![Input vs Reconstructed Hcal](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/gvae_hcal.png)
+#### Input vs Reconstructed Combined
 ![Input vs Reconstructed Combined](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/gvae_combined.png)
 
 ## DISCUSSION
@@ -105,14 +109,16 @@
 <details>
 <summary>Specific Task 2</summary>
   
-### Specific Task 2. [“Diffusion Models for Fast Detector Simulation"](https://github.com/pratyush-1/DeepFalcon/blob/main/gvae.ipynb) 
+### Specific Task 2. [“Diffusion Models for Fast Detector Simulation"](https://github.com/pratyush-1/DeepFalcon/blob/main/diffusion.ipynb) 
 
-* Please train a simple graph autoencoder on this dataset. Please show a visual side-by side comparison of the original and reconstructed events and appropriate evaluation metric of your choice. Compare to the VAE model results.
+* Use a Diffusion Network model to represent the events in task 1. Please show a side-by side comparison of the original and reconstructed events and appropriate evaluation metric of your choice that estimates the difference between the two.
   
 ### RESULTS - 
+#### Forward Diffusion
 ![forward diffusion](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/forward_diff.png)
+#### Reverse Diffusion
 ![reverse diffusion](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/backward_diffusion.png)
-
+#### Reconstruction on test image 
 ![reconstruction on test img](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/reconstruction.png)
 
 
