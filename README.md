@@ -105,7 +105,7 @@
 <details>
 <summary>Specific Task 2</summary>
   
-### Specific Task 2. [“Diffusion Models for Fast Detector Simulation"](https://github.com/pratyush-1/DeepFalcon/blob/main/gvae.ipynb) 
+### Specific Task 2. [“Diffusion Models for Fast Detector Simulation"](https://github.com/pratyush-1/DeepFalcon/blob/main/diffusion.ipynb) 
 
 * Please train a simple graph autoencoder on this dataset. Please show a visual side-by side comparison of the original and reconstructed events and appropriate evaluation metric of your choice. Compare to the VAE model results.
   
