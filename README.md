@@ -107,7 +107,7 @@
   
 ### Specific Task 2. [“Diffusion Models for Fast Detector Simulation"](https://github.com/pratyush-1/DeepFalcon/blob/main/diffusion.ipynb) 
 
-* Please train a simple graph autoencoder on this dataset. Please show a visual side-by side comparison of the original and reconstructed events and appropriate evaluation metric of your choice. Compare to the VAE model results.
+* Use a Diffusion Network model to represent the events in task 1. Please show a side-by side comparison of the original and reconstructed events and appropriate evaluation metric of your choice that estimates the difference between the two.
   
 ### RESULTS - 
 ![forward diffusion](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/forward_diff.png)
