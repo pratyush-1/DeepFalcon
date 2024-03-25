@@ -8,7 +8,7 @@
 <details>
 <summary>Sample Image channels</summary> 
   
-![input image](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/img.png)
+! [input image](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/img.png)
 </details>
 
 <details>
@@ -21,8 +21,8 @@
 * Please show a side-by-side comparison of original and reconstructed events. 
 
 ### Variational Autoencoder reconstructions vs original image
-![input image](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/img.png)
-![VAE reconstruction](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/vae.png)
+! [input image](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/img.png)
+! [VAE reconstruction](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/vae.png)
 
 ### DISCUSSION - 
 * As the data doesn't contain normal RGB channels and instead has different channels like ECAL,HCAL,Tracks ,data preprocessing needs to be chosen carefully
@@ -87,10 +87,10 @@
 * Please train a simple graph autoencoder on this dataset. Please show a visual side-by side comparison of the original and reconstructed events and appropriate evaluation metric of your choice. Compare to the VAE model results.
   
 ### RESULTS - 
-![Input vs Reconstructed Tracks](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/gvae_tracks.png)
-![Input vs Reconstructed Ecal](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/gvae_ecal.png)
-![Input vs Reconstructed Hcal](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/gvae_hcal.png)
-![Input vs Reconstructed Combined](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/gvae_combined.png)
+! [Input vs Reconstructed Tracks](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/gvae_tracks.png)
+! [Input vs Reconstructed Ecal](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/gvae_ecal.png)
+! [Input vs Reconstructed Hcal](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/gvae_hcal.png)
+! [Input vs Reconstructed Combined](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/gvae_combined.png)
 
 ## DISCUSSION
 
@@ -110,10 +110,10 @@
 * Use a Diffusion Network model to represent the events in task 1. Please show a side-by side comparison of the original and reconstructed events and appropriate evaluation metric of your choice that estimates the difference between the two.
   
 ### RESULTS - 
-![forward diffusion](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/forward_diff.png)
-![reverse diffusion](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/backward_diffusion.png)
+! [forward diffusion](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/forward_diff.png)
+! [reverse diffusion](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/backward_diffusion.png)
 
-![reconstruction on test img](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/reconstruction.png)
+! [reconstruction on test img](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/reconstruction.png)
 
 
 ## DISCUSSION
