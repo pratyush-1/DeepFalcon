@@ -74,7 +74,7 @@
 
     4. GraphConv aggregates information from neighboring nodes using weighted combination of node features.It can only take node features as input.
 
-* All of them achieve an accuracy in range of 68-70%, an method to improve the accuracy could be to either deepen the current neural network architectures or apply networks that could model longer range dependencies and capture more complex patterns like Graph Transformer Networks or Graph Isomorphism networks.
+* All of them achieve an accuracy in range of 68-70%, a method to improve the accuracy could be to either deepen the current neural network architectures or apply networks that could model longer range dependencies and capture more complex patterns like Graph Transformer Networks or Graph Isomorphism networks.
 
 </details> 
 
@@ -102,7 +102,7 @@
 
 * GCN operates by aggregating feature information from neighboring nodes in graph to update central nodes representation. It can only take node features as input.
 
-* The results can be further improved by using a more complex architecture and using layers like SageConv,GATcConv and pooling mechanisms
+* The results could be further improved by using a more complex architecture and using layers like SageConv,GATConv and pooling mechanisms and by incorporating convolution layers that consider edge features too. 
 
 </details> 
 
