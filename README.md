@@ -95,6 +95,8 @@
 ![Input vs Reconstructed Hcal](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/gvae_hcal.png)
 #### Input vs Reconstructed Combined
 ![Input vs Reconstructed Combined](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/gvae_combined.png)
+#### VAE Reconstruction
+![VAE reconstruction](https://github.com/pratyush-1/DeepFalcon/blob/main/assets/vae.png)
 
 ## DISCUSSION
 
